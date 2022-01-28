@@ -95,3 +95,8 @@ footer .active{
     font-family: 'Courier New', Courier, monospace;
     font-size: 3.2em;
 }
+
+.imeq{
+    float: left;
+    margin: 0 15px 15px 0;
+}
